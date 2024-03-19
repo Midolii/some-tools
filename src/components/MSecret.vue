@@ -6,7 +6,7 @@ console.log(getAllParams());
 </script>
 
 <template>
-  <div class="w-full h-full flex items-start justify-center pt-[25%]">
+  <div class="w-full h-full flex items-start justify-center pt-40">
     <Card title="内容">
       <div class="min-h-32 h-32">
         <span class="">
